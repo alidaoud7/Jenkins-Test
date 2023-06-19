@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: ' Page'),
+      home: const MyHomePage(title: ' Pge'),
     );
   }
 }
