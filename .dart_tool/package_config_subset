@@ -1,7 +1,7 @@
 jenkins
 2.18
-file:///home/daoud/Desktop/Jenkins-Test/
-file:///home/daoud/Desktop/Jenkins-Test/lib/
+file:///home/daoud/StudioProjects/Jenkins-Test/
+file:///home/daoud/StudioProjects/Jenkins-Test/lib/
 async
 2.14
 file:///home/daoud/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.9.0/
