@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     print("hello ");
     return MaterialApp(
-      title: 'eeeee',
+      title: 's',
       theme: ThemeData(
 
         primarySwatch: Colors.red,
