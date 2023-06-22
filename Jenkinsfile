@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Test') {
             steps {
-               sh 'git clone https://github.com/alidaoud7/Jenkins-Test.git '
+               sh 'git clone https://github.com/alidaoud7/Jenkins-Test.gi'
                
                 // sh 'git clone https://github.com/alidaoud7/Jenkins-Test.git new'
                  //dir ("new"){
