@@ -2,7 +2,7 @@ pipeline {
     agent {
         docker {
             image 'instrumentisto/flutter'
-        
+                args '-u root'
         }
     }
     stages {
